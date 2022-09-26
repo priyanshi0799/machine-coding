@@ -1,0 +1,39 @@
+Q1- Comment widget
+    enter comment so that you can see them down listed, like we have in 
+    facebook and all
+    comments can be nested, ie, reply functionality
+    nesting upto "n" level
+    edit comment
+    delete comment
+
+    (follow up questions?? what will happen on deleting? will the children also get
+    deleted?? Like functionality??)
+
+Q2- To do list app
+    similar to jira board with some columns like, TO-DO, inprogress, done, suspended
+    a- list of tasks
+    b- task -> name, description 
+    c- edit and delete the task
+    d- edit the list name
+    e- drag and drop
+
+Q3- Online food ordering app
+    a- api integeration (data fetch, get the list of resturant with a photo, name, rating, eta, description, menu, tags)
+    b- search functionality
+    c- sorting (name, rating, eta)
+    d- tagging (filtering like indian, chinese etc)
+
+Q4- Email 
+    inbox, sent, favorite etc folder
+    mail list
+    description of active mail
+    read and unread flag
+    number of read/unread mails 
+
+Q5- Sudoku Game
+    9x9 grid
+    3x3 columns
+
+Q6- any two products that can be compared (like in flipkart)
+    Product1 | Product2
+
